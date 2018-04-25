@@ -2,6 +2,7 @@
 
 Data Transmission Between two devices using Sound.</br>
 Tramission of data from one device to another using sound wave.
+Data Transfer Over sound waves.
 
 # Requirements:
 
@@ -32,3 +33,6 @@ python Decode.py
 # Note
 
 I am Still trying to improving this concept, Right now this is just at beginning stage so fill free to contribute and help to improving it thanks.
+
+# Inspired By
+<a href="https://github.com/rraval/pied-piper">Pied-Piper</a>
